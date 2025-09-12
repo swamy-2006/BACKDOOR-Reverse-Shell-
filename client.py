@@ -1,4 +1,3 @@
-#client cose
 import socket
 import json
 import subprocess
